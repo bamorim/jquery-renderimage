@@ -7,6 +7,12 @@
     "email": "bamorim2@gmail.com",
     "url": "https://github.com/bamorim"
   },
+  "licenses":  [
+    {
+      "type": "mit",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
   "dependencies": {
     "jquery": ">= 1.0"
   },
